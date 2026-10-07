@@ -1,0 +1,151 @@
+{
+  "opinions": [
+    {
+      "id": 1737388154760,
+      "votes": 2,
+      "userName": "hjjkjkjj",
+      "title": "dfg",
+      "body": "dfgdfgdf"
+    },
+    {
+      "id": 1737379003553,
+      "votes": 13,
+      "userName": "Abba",
+      "title": "Dabba",
+      "body": "Jabba"
+    },
+    {
+      "id": 1737378983664,
+      "votes": 0,
+      "userName": "Dhus",
+      "title": "Goose",
+      "body": "Booze"
+    },
+    {
+      "id": 1737378309751,
+      "votes": 0,
+      "userName": "Loot",
+      "title": "Poot",
+      "body": "Chut"
+    },
+    {
+      "id": 1737378308742,
+      "votes": 0,
+      "userName": "Loot",
+      "title": "Poot",
+      "body": "Chut"
+    },
+    {
+      "id": 1737378307730,
+      "votes": 0,
+      "userName": "Loot",
+      "title": "Poot",
+      "body": "Chut"
+    },
+    {
+      "id": 1737378306722,
+      "votes": 0,
+      "userName": "Loot",
+      "title": "Poot",
+      "body": "Chut"
+    },
+    {
+      "id": 1737378305709,
+      "votes": 0,
+      "userName": "Loot",
+      "title": "Poot",
+      "body": "Chut"
+    },
+    {
+      "id": 1737378304698,
+      "votes": 0,
+      "userName": "Loot",
+      "title": "Poot",
+      "body": "Chut"
+    },
+    {
+      "id": 1737378303688,
+      "votes": 0,
+      "userName": "Loot",
+      "title": "Poot",
+      "body": "Chut"
+    },
+    {
+      "id": 1737378302676,
+      "votes": 0,
+      "userName": "Loot",
+      "title": "Poot",
+      "body": "Chut"
+    },
+    {
+      "id": 1737378301664,
+      "votes": 0,
+      "userName": "Loot",
+      "title": "Poot",
+      "body": "Chut"
+    },
+    {
+      "id": 1737378300654,
+      "votes": 0,
+      "userName": "Loot",
+      "title": "Poot",
+      "body": "Chut"
+    },
+    {
+      "id": 1737378299641,
+      "votes": 0,
+      "userName": "Loot",
+      "title": "Poot",
+      "body": "Chut"
+    },
+    {
+      "id": 1737378298632,
+      "votes": 0,
+      "userName": "Loot",
+      "title": "Poot",
+      "body": "Chut"
+    },
+    {
+      "id": 1737378297622,
+      "votes": 0,
+      "userName": "Loot",
+      "title": "Poot",
+      "body": "Chut"
+    },
+    {
+      "id": 1737378296607,
+      "votes": 0,
+      "userName": "Loot",
+      "title": "Poot",
+      "body": "Chut"
+    },
+    {
+      "id": 1737378193576,
+      "votes": 0,
+      "userName": "Loot",
+      "title": "Poot",
+      "body": "Smoot"
+    },
+    {
+      "id": 1737378162715,
+      "votes": 0,
+      "userName": "Boogle",
+      "title": "Woogle",
+      "body": "Toogle"
+    },
+    {
+      "id": 1,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "Do yourself a favor and learn React!",
+      "body": "React is an amazing JavaScript library!\n\nDespite all it's shortcomings.",
+      "votes": 0
+    },
+    {
+      "id": 2,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "React has more depth than you might first think!",
+      "body": "React is a great library to learn, but it's not just about the basics. Dive deeper!\nFor example with this course!",
+      "votes": 0
+    }
+  ]
+}
